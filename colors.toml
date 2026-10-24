@@ -1,0 +1,60 @@
+# macOS Tahoe Liquid Glass Theme for Omarchy & Omalauncher
+# Inspired by macOS Tahoe liquid glass aesthetics & Lake Tahoe alpine waters
+
+mode = "dark"
+
+accent = "#0a84ff"
+selection = "#1e3a5f"
+muted = "#526b8e"
+
+background = "#0b1320"
+dark_background = "#070d17"
+darker_background = "#04070d"
+lighter_background = "#142033"
+
+foreground = "#f0f6fc"
+dark_foreground = "#8ba2be"
+light_foreground = "#e2e8f0"
+bright_foreground = "#ffffff"
+
+active_border_color = "#38bdf8"
+active_tab_background = "#142033"
+hyprland_active_border = "rgba(38bdf8ee) rgba(0a84ffee) 45deg"
+hyprland_inactive_border = "rgba(526b8e44)"
+
+# Normal colors (ANSI 0-7)
+color0 = "#0b1320"
+color1 = "#ff453a"
+color2 = "#30d158"
+color3 = "#ffd60a"
+color4 = "#0a84ff"
+color5 = "#bf5af2"
+color6 = "#5ac8fa"
+color7 = "#e2e8f0"
+
+# Bright colors (ANSI 8-15)
+color8 = "#526b8e"
+color9 = "#ff6961"
+color10 = "#5eead4"
+color11 = "#ffe66d"
+color12 = "#60a5fa"
+color13 = "#d8b4fe"
+color14 = "#7dd3fc"
+color15 = "#ffffff"
+
+# Semantic palette
+red = "#ff453a"
+yellow = "#ffd60a"
+orange = "#ff9f0a"
+green = "#30d158"
+cyan = "#5ac8fa"
+blue = "#0a84ff"
+magenta = "#bf5af2"
+brown = "#a2845e"
+
+bright_red = "#ff6961"
+bright_yellow = "#ffe66d"
+bright_green = "#5eead4"
+bright_cyan = "#7dd3fc"
+bright_blue = "#60a5fa"
+bright_magenta = "#d8b4fe"

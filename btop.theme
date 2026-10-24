@@ -1,0 +1,81 @@
+# Theme: Tahoe macOS Liquid Glass
+# Inspired by Lake Tahoe crystal azure waters and macOS Liquid Glass aesthetic
+
+# Main bg
+theme[main_bg]="#0b1320"
+
+# Main text color
+theme[main_fg]="#f0f6fc"
+
+# Title color for boxes
+theme[title]="#ffffff"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#0a84ff"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#1e3a5f"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#ffffff"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#526b8e"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#5ac8fa"
+
+# Cpu box outline color
+theme[cpu_box]="#38bdf8"
+
+# Memory/disks box outline color
+theme[mem_box]="#0a84ff"
+
+# Net up/down box outline color
+theme[net_box]="#5ac8fa"
+
+# Processes box outline color
+theme[proc_box]="#526b8e"
+
+# Box divider line and small boxes line color
+theme[div_line]="#1e3a5f"
+
+# Temperature graph colors
+theme[temp_start]="#30d158"
+theme[temp_mid]="#ffd60a"
+theme[temp_end]="#ff453a"
+
+# CPU graph colors
+theme[cpu_start]="#0a84ff"
+theme[cpu_mid]="#5ac8fa"
+theme[cpu_end]="#bf5af2"
+
+# Mem/Disk free meter
+theme[free_start]="#30d158"
+theme[free_mid]="#5ac8fa"
+theme[free_end]="#0a84ff"
+
+# Mem/Disk cached meter
+theme[cached_start]="#ffd60a"
+theme[cached_mid]="#ff9f0a"
+theme[cached_end]="#ff453a"
+
+# Mem/Disk available meter
+theme[available_start]="#5ac8fa"
+theme[available_mid]="#0a84ff"
+theme[available_end]="#bf5af2"
+
+# Mem/Disk used meter
+theme[used_start]="#ff453a"
+theme[used_mid]="#bf5af2"
+theme[used_end]="#ff9f0a"
+
+# Download graph colors
+theme[download_start]="#0a84ff"
+theme[download_mid]="#5ac8fa"
+theme[download_end]="#30d158"
+
+# Upload graph colors
+theme[upload_start]="#bf5af2"
+theme[upload_mid]="#ff453a"
+theme[upload_end]="#ff9f0a"
