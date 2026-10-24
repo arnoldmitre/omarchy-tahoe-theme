@@ -1,5 +1,5 @@
 /* Tahoe macOS Liquid Glass theme for Waybar */
-@define-color base-bg rgba(11, 19, 32, 0.70);
+@define-color base-bg rgba(11, 19, 32, 0.58);
 @define-color base-fg #f0f6fc;
 @define-color accent #0a84ff;
 @define-color border rgba(56, 189, 248, 0.40);

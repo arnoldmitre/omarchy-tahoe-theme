@@ -56,7 +56,7 @@ font = "DejaVu Sans Mono"
 app-tiles = true
 
 [widgets]
-opacity = 0.68
+opacity = 0.58
 frost = true
 border-width = 1
 border = "theme"
@@ -70,12 +70,12 @@ scale = 0.85
 
 [status-bar]
 framed = true
-opacity = 0.68
+opacity = 0.58
 border-width = 1
 
 [navigation-bar]
 framed = true
-opacity = 0.68
+opacity = 0.58
 border-width = 1
 
 [screens]
