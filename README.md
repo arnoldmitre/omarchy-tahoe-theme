@@ -4,6 +4,28 @@ An alpine, crystal-clear theme for [Omalauncher](https://github.com/omacom/omarc
 
 Features frosted liquid glass translucency, crisp ice-edge highlights, Sierra granite slate tones, and signature macOS vibrant system accents.
 
+## Installation
+
+### In Omalauncher / Omarchy
+
+Run the installation command in your terminal:
+
+```bash
+omarchy theme install https://github.com/arnoldmitre/omarchy-tahoe-theme
+```
+
+Or install it via the menu under **Install > Style > Theme** with the repository URL:
+```
+https://github.com/arnoldmitre/omarchy-tahoe-theme
+```
+
+To switch to the theme in Omalauncher, set in `~/.config/omalauncher/style/style.toml`:
+```toml
+theme = "tahoe"
+```
+
+---
+
 ## Palette
 
 | Element | Hex | Preview / Description |
@@ -23,7 +45,7 @@ Features frosted liquid glass translucency, crisp ice-edge highlights, Sierra gr
 - **macOS System Accents**: Carefully matched red (`#ff453a`), emerald green (`#30d158`), golden sun (`#ffd60a`), and electric purple (`#bf5af2`).
 - **Lake Tahoe Wallpapers**: Includes both panoramic 16:9 and vertical mobile wallpapers capturing the alpine liquid glass atmosphere.
 
-## Style Configuration (`~/.config/omalauncher/style/style.toml`)
+## Recommended Launcher Style (`~/.config/omalauncher/style/style.toml`)
 
 ```toml
 version = 1
@@ -40,6 +62,9 @@ border-width = 1
 border = "theme"
 border-focused = "theme"
 
+[icons]
+monochrome = false
+
 [corners]
 scale = 0.85
 
@@ -52,4 +77,13 @@ border-width = 1
 framed = true
 opacity = 0.68
 border-width = 1
+
+[screens]
+border-width = 1
+
+[keybar]
+border-width = 1
+
+[terminal]
+font = "DejaVu Sans Mono"
 ```
